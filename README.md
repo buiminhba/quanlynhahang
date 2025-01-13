@@ -21,45 +21,6 @@
 >*	Thống kê Hóa Đơn
 >*	Quản lý khách hàng
 
-## Demo Sản Phẩm
--  Đăng Ký & Đăng Nhập:
-----------------
->* Đăng Ký
-
-![SignUp](./src/Demo/SignUp.png)
-
->* Đăng Nhập
-
-![SignIn](./src/Demo/SignIn.png)
-
--  Khách Hàng:
-----------------
->* Đặt Món
-
-![OrderFood](./src/Demo/Customer/OrderFood.png)
-
->* About Us
-
-![AboutUs](./src/Demo/Customer/AboutUs.png)
-
->* Thông Tin Cá Nhân
-
-![Profile](./src/Demo/Customer/Profile.png)
-
--  Admin:
-----------------
->* Quản Lý Thực Đơn
-
-![MenuManage](./src/Demo/Admin/Manage_Food.png)  
-
->* Sửa Thực Đơn
-
-![EditFood](./src/Demo/Admin/Edit_Food.png)
-
->* Báo cáo & Thống Kê
-
-![Statistic](./src/Demo/Admin/Statistic.png)
-
 ## Các ngôn ngữ, công nghệ sử dụng
 > * Ngôn ngữ sử dụng: `Java`
 > * IDE sử dụng: `Netbeans`
